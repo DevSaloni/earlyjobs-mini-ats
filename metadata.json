@@ -1,0 +1,6 @@
+{
+  "name": "EarlyJobs ATS — Mini Applicant Tracking System",
+  "description": "A mini applicant tracking system for recruiters to manage candidates, track hiring pipelines, and monitor recruiting analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
